@@ -672,6 +672,10 @@ banner
 
 section.main-banner {
   margin-top: 0px;
+  background-image: url(../images/cta-bg.png);
+  object-fit: cover;
+    
+
 }
 
 .main-banner {
